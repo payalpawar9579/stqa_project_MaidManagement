@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/payalpawar9579/stqa_project_MaidManagement.git
+	fetch = +refs/*:refs/*
+	mirror = true
